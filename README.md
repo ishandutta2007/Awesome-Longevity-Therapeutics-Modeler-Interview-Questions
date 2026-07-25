@@ -1,11 +1,16 @@
+<!-- Awesome Longevity Therapeutics Modeler Interview Questions — 136 curated Q&A covering geroscience, aging biology, biomarkers, aging clocks, geroprotective drug discovery, computational aging models, multi-omics, longevity clinical trial design, and machine learning for aging research. -->
+
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome Longevity Therapeutics Modeler Interview Questions Banner" width="100%"/>
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="#-contents"><img src="https://img.shields.io/badge/Questions-136-58a6ff?style=for-the-badge&logo=bookstack&logoColor=white" alt="136 Questions"/></a>
   <a href="#-how-to-use-this-repo"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-34d399?style=for-the-badge&logo=creativecommons&logoColor=white" alt="License"/></a>
   <a href="#-contributing"><img src="https://img.shields.io/badge/PRs-Welcome-f472b6?style=for-the-badge&logo=github&logoColor=white" alt="PRs Welcome"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -68,6 +73,21 @@
 ## 📄 License
 
 📜 [CC BY-SA 4.0](LICENSE) — free to use and adapt, with attribution, sharing improvements back under the same license.
+
+---
+
+## 🔑 Keywords
+
+`longevity therapeutics` · `geroscience interview questions` · `aging biology` · `hallmarks of aging` · `epigenetic clocks` · `biological age` · `geroprotective drugs` · `rapamycin` · `senolytics` · `computational aging models` · `systems biology of aging` · `multi-omics aging` · `longevity clinical trials` · `TAME trial` · `machine learning drug discovery` · `aging biomarkers` · `GrimAge` · `DunedinPACE` · `model organisms aging` · `biostatistics longevity`
+
+---
+
+## 🔗 Related Resources
+
+- 🧬 [Awesome Aging Research](https://github.com/topics/aging) — GitHub topic for aging-related repositories
+- 📖 [Hallmarks of Aging (López-Otín et al.)](https://doi.org/10.1016/j.cell.2013.05.039) — Foundational review paper
+- 🏥 [TAME Trial (Targeting Aging with Metformin)](https://www.afar.org/tame-trial) — Landmark geroscience clinical trial
+- 🤖 [Awesome Drug Discovery with ML](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) — Curated awesome lists
 
 ---
 
